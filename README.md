@@ -1,4 +1,4 @@
-# simple-voice-system
+## simple-voice-system
 This is my simple mini group project creating my school day.
 Here is my Groupmate 
 
